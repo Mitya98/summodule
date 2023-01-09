@@ -1,3 +1,3 @@
-module github.com/Mitya98/summodule
+module summodule
 
 go 1.19
